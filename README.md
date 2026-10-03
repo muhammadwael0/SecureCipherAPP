@@ -26,4 +26,4 @@ A secure cross-platform GUI application for encrypting and decrypting messages u
 - **Windows**: Run `build_win.bat` (or `pyinstaller --onefile --windowed --name SecureCipherStudio main.py`)
 
 ## 📥 Downloads
-Pre-compiled binaries for Windows (`.exe`) and macOS (`.app`) are available in the **[Releases](https://github.com/muhammadwael0/SecureCipherStudio/releases)** section.
+Pre-compiled binaries for Windows (`.exe`) and macOS (`.app`) are available in the **[Releases](https://github.com/muhammadwael0/SecureCipherAPP/releases)** section.
